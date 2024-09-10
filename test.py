@@ -1,6 +1,3 @@
 
-a = 234
-b = "234"
+a = 345
 
-for i in range(1,11,2):
-    print(i)
