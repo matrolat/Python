@@ -1,10 +1,7 @@
 
-student = {
-    "name" : "Sameer",
-    "age" : "21",
-    "mouse":"gaming"
-}
 
-l = student.keys()
+def add(x=0,y=0):
+    print(x+y)
 
-print( student.items() )
+
+add()
